@@ -1,0 +1,5 @@
+[package]
+name = "ternary-music"
+version = "0.1.0"
+edition = "2021"
+description = "The ternary⇄music bridge — Rust implementation. The type system encodes the group closure property: +1 + (-1) = 0."
